@@ -8,14 +8,13 @@ MC-PILCO package is a freely available MERL (Mitsubishi Electric Research Labora
 If you use MC-PILCO for any academic work, please cite our original [paper](https://arxiv.org/pdf/2101.12115.pdf).
 
 ```bibtex
-@article{amadio2022mcpilco,
+@ARTICLE{amadio2022mcpilco,
   author={Amadio, Fabio and Dalla Libera, Alberto and Antonello, Riccardo and Nikovski, Daniel and Carli, Ruggero and Romeres, Diego},
-  journal={IEEE Transactions on Robotics},
-  title={Model-Based Policy Search Using Monte Carlo Gradient Estimation With Real Systems Application},
+  journal={IEEE Transactions on Robotics}, 
+  title={Model-Based Policy Search Using Monte Carlo Gradient Estimation With Real Systems Application}, 
   year={2022},
-  volume={},
-  number={},
-  pages={1-20},
-  doi={10.1109/TRO.2022.3184837}
-}
+  volume={38},
+  number={6},
+  pages={3879-3898},
+  doi={10.1109/TRO.2022.3184837}}
 ```
